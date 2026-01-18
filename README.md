@@ -28,10 +28,10 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src="https://i.imgur.com/MpAntGU.gif" title="Video Walkthrough" width="600" alt="Video Walkthrough" />
+<!--<img src="https://i.imgur.com/MpAntGU.gif" title="Video Walkthrough" width="600" alt="Video Walkthrough" />-->
 
-<!--note: gif embedding wasnt working so I had to do it this way-->
-![Video Walkthrough](https://i.imgur.com/MpAntGU.gif)
+<img src="https://i.ibb.co/K85mT6m/prework1-gif-small.gif" title="Video Walkthrough" width="600" alt="Video Walkthrough" />
+
 
 
 <!-- Replace this with whatever GIF tool you used! -->
