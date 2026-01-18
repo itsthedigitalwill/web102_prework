@@ -30,7 +30,6 @@ Here's a walkthrough of implemented features:
 
 <video src="https://i.imgur.com/MpAntGU.mp4" controls width="600"></video>
 
-
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Kap
 <!-- Recommended tools:
