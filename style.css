@@ -5,6 +5,23 @@ body {
     background-color: #758190;
 }
 
+/*adding extra css for step 3 challenge 7*/
+h2 {
+    margin-top: 30px;
+    margin-bottom: 15px;
+    text-align: center;
+    color: #f0f0f0;
+}
+h3 {
+    color: #2f3e46;
+}
+
+#top-games .stats-card {
+    background-color: #ffeaa7;
+    border: 2px solid #fab1a0;
+}
+
+
 #tentacles {
     width: 50px;
 }
@@ -20,7 +37,15 @@ body {
 }
 
 .stats-container {
+    /*adding a new random rule*/
+    border: 2px solid black;
     display: flex;
+    align-items: center;
+    cursor: pointer; 
+}
+
+.stats-container:hover{
+    box-shadow: 0 0 30px lightblue;
 }
 
 .stats-card {
