@@ -30,6 +30,8 @@ Here's a walkthrough of implemented features:
 
 <img src="https://i.imgur.com/MpAntGU.gif" title="Video Walkthrough" width="600" alt="Video Walkthrough" />
 
+<!--note: gif embedding wasnt working so I had to do it this way-->
+![Video Walkthrough](https://i.imgur.com/MpAntGU.gif)
 
 
 <!-- Replace this with whatever GIF tool you used! -->
