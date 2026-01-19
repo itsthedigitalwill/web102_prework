@@ -30,9 +30,7 @@ Here's a walkthrough of implemented features:
 
 <!--<img src="https://i.imgur.com/MpAntGU.gif" title="Video Walkthrough" width="600" alt="Video Walkthrough" />-->
 
-<img src="https://i.ibb.co/K85mT6m/prework1-gif-small.gif" title="Video Walkthrough" width="600" alt="Video Walkthrough" />
-
-
+![Video Walkthrough](https://i.ibb.co/K85mT6m/prework1-gif-small.gif)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Kap
